@@ -43,6 +43,13 @@
 	margin: 5px;
 
 }
+.social-link-footer {
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	margin: 5px;
+
+}
 
 .service-section i {
 	font-size: 100px;
@@ -59,6 +66,18 @@
 
 }
 
+div.polaroid {
+
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
 .about-me {
 	background-color:#FAFAFA;
 }
@@ -66,7 +85,7 @@
 
 .img {
 	width: 100%;
-	  border-radius: 25px;
+	 
 }
 .logo {
     font-size: 1000px;
@@ -76,4 +95,20 @@
         text-align: center;
         margin: 25px 0;
     }
+}
+
+/* Add a dark background color to the footer */
+footer {
+    background-color: #2d2d30;
+    color: #f5f5f5;
+    padding: 32px;
+}
+
+footer a {
+    color: #f5f5f5;
+}
+
+footer a:hover {
+    color: #777;
+    text-decoration: none;
 }
