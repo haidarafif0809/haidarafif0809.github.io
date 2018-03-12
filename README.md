@@ -1,65 +1,38 @@
-# haidarafif0809.github.io
+# Dev Landing Page
 
+Minimal landing page for developers.
 
-### About This Site
-This is CV Site about who am i and  what can i do and promote myself as full stack web developer.
-there are two section on the site : 
-1.  about me
-2.  about what i can make 
+Developers don't talk much. Their code does all the talking. So here's a minimal landing page for developers.
 
-### Used Tags & Syntaxes
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
-**HTML Tag**
-- html
-- head 
-- title 
-- body 
-- link
-- meta
-- script
-- div
-- h1 
-- h4
-- ul
-- li
-- p
-- a
-- img
-- br
-- i
-- footer
+I wanted a dev landing page to showcase everything I do online and I wanted it to be minimal and right to the point rather beautiful and hefty. And I think most of the devs out there would want the same.
 
-**CSS Property**
+So I sat down one night and created this **Dev Landing Page**. Feel free to fork, clone, play around and make this your own.
 
-- text-align
-- border-style
-- border-color
-- color
-- text-transform
-- opacity
-- position
-- background
-- background-size
-- background-color
-- box-shadow
-- margin
-- text-decoration
-- font-size
-- cursor
-- padding
-- width
+## Themes
 
-**Extras**
-- icon from font awesome [w3schools](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
-- css framework [bootstrap 4 ](https://getbootstrap.com/)
+Dev Landing Page comes in 9 **material themes**.
 
+![9 Material Themes](https://image.ibb.co/jJVKCn/dev_landing_page_themes.jpg)
 
-### About Me
-Haidar Afif Maulana
+If none of these themes fit within your taste, it's quite easy to customize and create your own too. 
 
-Howdy, I’m Haidar Afif Maulana. You can call me Afif. 
-I’m a Professional Full Stack Web Developer also as Lead Developer at PT Andaglos Global Teknologi since 2014, 
-living in Bandar Lampung, Indonesia. I am a fan of technology, reading, programming and web development.
-I'm also write about it on medium See You in the Next Project :) 
+## GitHub Pages
 
-Visit [Website](http://haidarafif0809.github.io)
+GitHub makes it easy to create personal websites. Follow this link - [GitHub Pages](https://pages.github.com/) to know how or follow the steps below.
+
+If you already have a GitHub profile (obviously)
+
+* Create a new repo with the name `{username}.github.io`
+* Clone/Fork this repo and copy the files to your newly created repo
+* Customize your name, links and everything else for your landing page
+* `git push`
+
+Voila! Your site should be live at `https://{username}.github.io`
+
+My **Dev Landing Page** is in my favourite yellow theme - [Dinesh Pandiyan](https://flexdinesh.github.io)
+
+## License
+
+MIT © Dinesh Pandiyan
